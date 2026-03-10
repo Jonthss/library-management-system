@@ -39,7 +39,7 @@ public class ProjetoBiblioteca {
                 System.out.println("\nEntrada inválida. Por favor, digite apenas números.\n");
                 scanner.nextLine();
             }
-        } while (opcao != 55);
+        } while (opcao != 5);
 
         scanner.close();
     }
