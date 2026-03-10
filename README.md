@@ -24,4 +24,4 @@ The system features a navigation menu that offers the following operations:
 1. Make sure you have the [Java JDK](https://www.oracle.com/java/technologies/downloads/) installed on your machine.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
+   git clone [https://github.com/Jonthss/library-management-system.git](https://github.com/Jonthss/library-management-system.git)
